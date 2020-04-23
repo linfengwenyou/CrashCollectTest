@@ -1,0 +1,16 @@
+PODS:
+  - SSZipArchive (2.2.2)
+
+DEPENDENCIES:
+  - SSZipArchive (from `~/Downloads/ZipArchive`)
+
+EXTERNAL SOURCES:
+  SSZipArchive:
+    :path: "~/Downloads/ZipArchive"
+
+SPEC CHECKSUMS:
+  SSZipArchive: d46e487cffa49b4b5caf535e7c95cb2cd2bf03bc
+
+PODFILE CHECKSUM: 8d2902b7857deb6a862728b2e04c58a086eef7be
+
+COCOAPODS: 1.9.1
